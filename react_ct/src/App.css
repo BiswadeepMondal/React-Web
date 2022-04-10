@@ -36,11 +36,3 @@
     transform: rotate(360deg);
   }
 }
-.btn {
-  background-color: #61dafb;
-  color:indigo;
-  border-radius: 20%;
-  font-size: 26px;
-  padding: 15px 32px;
-  margin: 4px 2px;
-}
